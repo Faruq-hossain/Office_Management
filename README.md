@@ -6,7 +6,9 @@
 
 **=====================LINKS===========================**
 **spatie install**: https://spatie.be/docs/laravel-permission/v5/installation-laravel
+
 **Laravel**: https://laravel.com/docs/10.x
+
 **Eloquent**: https://laravel.com/docs/10.x/eloquent-collections
 
 **User login, Registration, Role and Role Permission Video**
